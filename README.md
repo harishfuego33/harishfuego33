@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #445ef2;">Hi 👋, I'm Harish Kumar S</h1>
+<h1 align="center" color= "#445ef2";>Hi 👋, I'm Harish Kumar S</h1>
 <h3 align="center" style="color: #445ef2;">A passionate frontend developer from India</h3>
 
 - 🌱 I’m currently learning **React**

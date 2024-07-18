@@ -1,7 +1,7 @@
 <h1 align="center" color= "#445ef2";>Hi 👋, I'm Harish Kumar S</h1>
 <h3 align="center" style="color: #445ef2;">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **REACT JS** AND **NODE JS**
 
 - 👨‍💻 All of my projects are available at [https://harishdevportfolio.vercel.app/](https://harishdevportfolio.vercel.app/)
 

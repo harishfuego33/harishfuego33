@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **REACT JS** AND **NODE JS**
 
-- 👨‍💻 All of my projects are available at [https://harishdevportfolio.vercel.app/](https://harishdevportfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://harishdevportfolio.vercel.app/](https://harishdev.vercel.app/)
 
 - 📫 How to reach me **harishsugumar33@gmail.com**
 

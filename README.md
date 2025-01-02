@@ -17,7 +17,7 @@
 
 - 🌱 I'm currently learning **React JS** and **Node JS** ![Learning](https://img.shields.io/badge/Learning-In_Progress-ff69b4?style=flat-square&logo=bookstack&logoColor=white)
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://harishdevportfolio.vercel.app/) ![Portfolio](https://img.shields.io/badge/Portfolio-Live-success?style=flat-square&logo=vercel&logoColor=white)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://harishdev.vercel.app/) ![Portfolio](https://img.shields.io/badge/Portfolio-Live-success?style=flat-square&logo=vercel&logoColor=white)
 
 - 📫 How to reach me **harishsugumar33@gmail.com** ![Email](https://img.shields.io/badge/Email-Available-green?style=flat-square&logo=gmail&logoColor=white)
 

@@ -32,8 +32,8 @@
 ```js
 const harish = {
   technologies: {
-    frontEnd: ["React", "JavaScript", "HTML", "CSS", "SASS"],
-    backEnd: ["Node.js"],
+    frontEnd: ["React", "JavaScript","Typescript", "HTML", "CSS", "SASS"],
+    backEnd: ["Node.js","c#"],
     other: ["Git", "C/C++"]
   },
   currentlyLearning: ["Advanced React Patterns", "UI/UX Principles", "Node.js Ecosystem"],
